@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Подсчет шреков</string>
+    <string name="bombs">Всего шреков</string>
+    <string name="add_bomb">Добавить шрека</string>
+</resources>
